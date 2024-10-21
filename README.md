@@ -24,4 +24,4 @@ apples per image. The complete dataset consisted of 4,000 images divided into he
 second dataset derived from the first one was collected, with 1,000 healthy images and 333 images of each of the
 afore mentioned damage classes
 
-The dataset and the models are available at the following link: https://www.kaggle.com/datasets/mmolina2018/healthy-vs-damage-apples
+The dataset and the models are available at the following link: [https://www.kaggle.com/datasets/mmolina2018/healthy-vs-damage-apples](https://kaggle.com/datasets/2256b6c9cd8b66c2728916739788f523290f1d79efb7eec210fe11f0ed195bf8)
