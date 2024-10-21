@@ -1,0 +1,11 @@
+path:  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+test: images/test
+
+# Classes
+names:
+  0: sanas
+  1: herida_y_picadura
+  2: podrida
+  3: quemadura_y_otros
