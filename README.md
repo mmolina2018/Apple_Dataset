@@ -1,4 +1,3 @@
-Dataset
 The dataset includes images of apples with different types of damage, collected from various sources. These damages include:
 
 - Sunburn: Dry, discolored spots on the apple's skin, caused by prolonged sun exposure.
